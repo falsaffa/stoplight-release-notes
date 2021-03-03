@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "type": "divider",
+      "title": "Latest (Updated March 3)"
+    },
+    {
+      "type": "item",
+      "title": "Mar, 2021",
+      "uri": "docs/2021/03.md"
+    },
+    {
+      "type": "divider",
+      "title": "Archived"
+    },
+    {
+      "type": "item",
+      "title": "Feb, 2021",
+      "uri": "docs/2021/02.md"
+    },
+    {
+      "type": "item",
+      "title": "Jan, 2021",
+      "uri": "docs/2021/01.md"
+    }
+  ]
+}
