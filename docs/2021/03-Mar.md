@@ -1,3 +1,10 @@
+# March 8, 2021
+
+### Fixes & Improvements
+
+- Fixed deleting a path parameter would cause unexpected Studio behavior (such as redirecting to the API overview page)
+- Path parameters will no longer disappear when attempting to change its type.
+
 # March 5, 2021
 
 ### Multiple VCS Integrations for the Same Git Provider
