@@ -2,7 +2,9 @@
 
 ## What's New?
 
-- You can now manage Project visibility straight from the "Share" popup on the project docs page.
+You can now manage Project visibility straight from the "Share" popup on the project docs page.
+
+![Image](../../assets/images/2021/ManageAccessProjectDocShareButton.png)
 
 ## Bug Fixes
 
@@ -54,7 +56,7 @@
 
 For Starter workspaces you can now use [Stoplight's Google Tag Manager integration](https://roadmap.stoplight.io/c/64-google-tag-manager-integration) to track visitors to your docs via your customer domain. Simply go to Settings > Basics > Custom Domain and enter your Google Tag Manager ID to begin tracking visitors.
 
-![Image](../../assets/images/Feb-3-2021-1.png)
+![Image](../../assets/images/2021/GTM.png)
 
 ## Bug Fixes
 

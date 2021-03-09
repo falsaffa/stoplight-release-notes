@@ -2,12 +2,12 @@
   "items": [
     {
       "type": "divider",
-      "title": "Latest (Updated March 3)"
+      "title": "Latest (Updated March 8)"
     },
     {
       "type": "item",
       "title": "Mar, 2021",
-      "uri": "docs/2021/03.md"
+      "uri": "docs/2021/03-Mar.md"
     },
     {
       "type": "divider",
@@ -16,12 +16,12 @@
     {
       "type": "item",
       "title": "Feb, 2021",
-      "uri": "docs/2021/02.md"
+      "uri": "docs/2021/02-Feb.md"
     },
     {
       "type": "item",
       "title": "Jan, 2021",
-      "uri": "docs/2021/01.md"
+      "uri": "docs/2021/01-Jan.md"
     }
   ]
 }
