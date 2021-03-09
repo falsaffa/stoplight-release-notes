@@ -4,7 +4,7 @@
 
 You can now manage Project visibility straight from the "Share" popup on the project docs page.
 
-![Image](../../assets/images/2021/ManageAccessProjectDocShareButton.png)
+![Image](https://github.com/falsaffa/stoplight-release-notes/blob/main/assets/images/2021/ManageAccessProjectDocShareButton.png?raw=true)
 
 ## Bug Fixes
 
@@ -51,12 +51,12 @@ You can now manage Project visibility straight from the "Share" popup on the pro
 ## Custom Domain: Google Tag Manager Support
 
 
-![Image](https://github.com/falsaffa/stoplight-release-notes/blob/main/assets/images/Starter.png)
+![Image](https://github.com/falsaffa/stoplight-release-notes/blob/main/assets/images/Starter.png?raw=true)
 
 
 For Starter workspaces you can now use [Stoplight's Google Tag Manager integration](https://roadmap.stoplight.io/c/64-google-tag-manager-integration) to track visitors to your docs via your customer domain. Simply go to Settings > Basics > Custom Domain and enter your Google Tag Manager ID to begin tracking visitors.
 
-![Image](../../assets/images/2021/GTM.png)
+![Image](https://github.com/falsaffa/stoplight-release-notes/blob/main/assets/images/2021/GTM.png?raw=true)
 
 ## Bug Fixes
 

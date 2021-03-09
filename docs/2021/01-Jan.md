@@ -10,13 +10,13 @@
 
 Stoplight Studio now supports [OpenAPI's Example Component Object](https://swagger.io/specification/#components-object). Leverage reusable examples across your API to create consistent and consumable API specs. 
 
-![Image](../../assets/images/2021/SharedExamples.png)
+![Image](https://github.com/falsaffa/stoplight-release-notes/blob/main/assets/images/2021/SharedExamples.png?raw=true)
 
 ## Custom Domain: Hide Sign In Button
 
 Using Stoplight to host external docs on a custom domain? You can now [hide the "Sign In" button](https://roadmap.stoplight.io/c/103-add-an-option-to-hide-the-sign-in-button) in the left toolbar to avoid unwanted login requests.
 
-![Image](../../assets/images/2021/HideSignInButton.png)
+![Image](https://github.com/falsaffa/stoplight-release-notes/blob/main/assets/images/2021/HideSignInButton.png?raw=true)
 
 # Jan 5, 2021
 

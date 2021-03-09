@@ -4,7 +4,7 @@
 
 For organizations that maintain projects hosted on different VCS servers, such as Github Cloud and Github Enterprise. This feature will allow you to install multiple providers of the same type with different configurations.
 
-![Image](../../assets/images/2021/MultipleConfigSameVCS.png)
+![Image](https://github.com/falsaffa/stoplight-release-notes/blob/main/assets/images/2021/MultipleConfigSameVCS.png?raw=true)
 
 # March 3, 2021
 
