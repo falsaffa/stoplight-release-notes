@@ -52,9 +52,9 @@ You can now manage your project's share settings directly from the Project Doc's
 
 ### Custom Domain: Google Tag Manager Support
 
+<!-- theme: info -->
 
-![Image](https://github.com/falsaffa/stoplight-release-notes/blob/main/assets/images/Starter.png?raw=true)
-
+> Available for **Starter** workspaces.
 
 For Starter workspaces you can now use [Stoplight's Google Tag Manager integration](https://roadmap.stoplight.io/c/64-google-tag-manager-integration) to track visitors to your docs via your customer domain. Simply go to Settings > Basics > Custom Domain and enter your Google Tag Manager ID to begin tracking visitors.
 
