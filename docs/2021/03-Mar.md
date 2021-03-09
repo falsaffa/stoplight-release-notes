@@ -1,6 +1,6 @@
 # March 5, 2021
 
-## Multiple VCS Integrations for the Same Git Provider
+### Multiple VCS Integrations for the Same Git Provider
 
 For organizations that maintain projects hosted on different VCS servers, such as Github Cloud and Github Enterprise. This feature will allow you to install multiple providers of the same type with different configurations.
 
@@ -8,7 +8,7 @@ For organizations that maintain projects hosted on different VCS servers, such a
 
 # March 3, 2021
 
-## Bug Fixes
+### Fixes & Improvements
 
-- Fixed a bug where users invited as "Guests" would be granted the role "Viewer" and not guest.
+- Fixed users invited as "Guests" would be granted the role "Viewer" and not guest.
 - Fixed HTTP Operation referenced parameters not properly showing in Studio form.

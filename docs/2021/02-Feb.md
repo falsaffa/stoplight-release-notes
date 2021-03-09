@@ -1,12 +1,12 @@
 # Feb 24, 2021
 
-## What's New?
+### Project Visibility Management
 
 You can now manage Project visibility straight from the "Share" popup on the project docs page.
 
 ![Image](https://github.com/falsaffa/stoplight-release-notes/blob/main/assets/images/2021/ManageAccessProjectDocShareButton.png?raw=true)
 
-## Bug Fixes
+### Fixes & Improvements
 
 - Fixed Studio Desktop project lists disappearing when deleting a project.
 - Fixed a bug that stopped Studio Desktop from starting.
@@ -14,21 +14,21 @@ You can now manage Project visibility straight from the "Share" popup on the pro
 
 # Feb 22, 2021
 
-## What's New?
+### What's New?
 
 - Stoplight Studio now supports Global OAS tags.
 - Private projects will now not appear in the Project Sidebar for Admins and Owners to reduce clutter. Admins and Owners can still manage private projects from the "Workspace Project Settings" page.
 
 # Feb 17, 2021
 
-## Bug Fixes
+### Fixes & Improvements
 
 - Fixed a bug where a required model property is not marked "Required".
 
 
 # Feb 10, 2021
 
-## Bug Fixes
+### Fixes & Improvements
 
 - Fixed unstaring in Explorer sometimes not unstarring.
 - Fixed "API Overview" link in Project Docs not opening the API Overview page.
@@ -36,19 +36,21 @@ You can now manage Project visibility straight from the "Share" popup on the pro
 
 # Feb 9, 2021
 
-## What's New?
+### Easier Project Sharing
 
-- You can now manage your project's share settings directly from the Project Doc's "Share" button.
+You can now manage your project's share settings directly from the Project Doc's "Share" button.
+
+![Image](https://github.com/falsaffa/stoplight-release-notes/blob/main/assets/images/2021/ManageProjectSharing.png?raw=true)
 
 # Feb 4, 2021
 
-## Bug Fixes
+### Fixes & Improvements
 
 - Fixed Shared Examples not appearing as an option in the "Examples" dropdown.
 
 # Feb 3, 2021
 
-## Custom Domain: Google Tag Manager Support
+### Custom Domain: Google Tag Manager Support
 
 
 ![Image](https://github.com/falsaffa/stoplight-release-notes/blob/main/assets/images/Starter.png?raw=true)
@@ -58,6 +60,6 @@ For Starter workspaces you can now use [Stoplight's Google Tag Manager integrati
 
 ![Image](https://github.com/falsaffa/stoplight-release-notes/blob/main/assets/images/2021/GTM.png?raw=true)
 
-## Bug Fixes
+### Fixes & Improvements
 
 - Fixed "API Overview" Table of Content item in a Project's Docs not redirecting the user to the API Overview page.
