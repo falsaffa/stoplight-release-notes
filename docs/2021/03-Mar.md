@@ -1,3 +1,9 @@
+# March 15, 2021
+
+### Fixes & Improvements
+
+- Fixed an error that prevented users from logging in or integrating with their VCS provider.
+
 # March 8, 2021
 
 ### Fixes & Improvements
