@@ -1,3 +1,16 @@
+# March 17, 2021
+
+### Fixes & Improvements
+
+- Hosted mock servers are now accessible from any origin and will not limit any HTTP headers or methods. [Learn more about mocking](https://meta.stoplight.io/docs/platform/3.-design/d.setting-up-a-mock-server.md)
+- Unpublished branches will no longer appear for "Guest" members.
+
+# March 16, 2021
+
+### Fixes & Improvements
+
+- Fixed a bug where re-ordering properties of a schema in code-view would not be reflected in form view.
+
 # March 15, 2021
 
 ### Fixes & Improvements
